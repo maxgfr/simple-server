@@ -5,6 +5,7 @@ A simple node server with a `POST` and `GET` route that returns a JSON object. T
 ## Commands
 
 ```bash
-yarn dev # start server in watch mode
-yarn start # start server
+npm install # to install (nothing)
+npm run dev # start server in watch mode
+npm run start # start server
 ```
