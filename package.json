@@ -8,9 +8,5 @@
     "dev": "node --watch index.js"
   },
   "author": "maxgfr",
-  "license": "ISC",
-  "dependencies": {},
-  "engines": {
-    "node": ">= v20"
-  }
+  "dependencies": {}
 }
